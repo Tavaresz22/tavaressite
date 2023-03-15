@@ -1,4 +1,9 @@
 header {
     background-color: #000000;
-    color: white;
+    color: rgb(223, 150, 150);
+}
+
+.imagem1 {
+    width: 30px;
+
 }
